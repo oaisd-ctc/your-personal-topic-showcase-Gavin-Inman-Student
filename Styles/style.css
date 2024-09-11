@@ -1,0 +1,25 @@
+#anvil-picture{
+    height: 300px; 
+    transform: translate(300px, 100px);
+    border-radius: 25px;
+    }
+
+#sections{
+    transform: translate(700px,-100px);
+    font-size:60px;
+  
+
+}
+
+#tools-link{
+    transform: translate(510px, 100px); 
+    
+
+
+}
+
+#sparkingforge-picture{
+   height: 200px;
+   transform: translate(1000px, -100px);
+   
+}
