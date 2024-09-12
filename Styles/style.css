@@ -1,25 +1,85 @@
 #anvil-picture{
-    height: 300px; 
-    transform: translate(300px, 100px);
+    height: 300px;
+    width: 300px; 
+    transform: translate(300px, 0px);
     border-radius: 25px;
     }
 
 #sections{
-    transform: translate(700px,-100px);
-    font-size:60px;
-  
-
+    transform: translate(700px, 50px);
+    font-size:50px;
+    background-color: darkgrey;
+    width:430px;
+    height:110px;
+    text-align: center;
+    border-radius: 50px;
+    border-color: black;
+    border-style: outset;
+    border-width: 10px
 }
 
-#tools-link{
-    transform: translate(510px, 100px); 
-    
+h2{
+    padding-top: 40px
+}
+
+#link-names{
+    transform: translate(420px, 400px);
+    font-size: 30px;
+    word-spacing:400px;
 
 
 }
 
 #sparkingforge-picture{
-   height: 200px;
-   transform: translate(1000px, -100px);
-   
+   height: 300px; 
+   width: 350px;
+   transform: translate(450px, 0px);
+   border-radius: 25px;
+
+}
+
+#guidebook-picture{
+    height: 300px; 
+    width: 350px;
+    transform: translate(580px, 0px);
+    border-radius: 25px;
+ 
+}
+
+body{
+    overflow: hidden;
+    border-color: black;
+    border-style: double;
+    border-width: 30px;
+    width: 1810px;
+    height: 900px;
+    margin:0px;
+
+}
+
+header{
+    background-color: darkgrey;
+    border-radius:100px;
+    height: 120px;
+    width:850px;
+    margin:0px;
+    border-radius: 50px;
+    border-color: black;
+    border-style: outset;
+    border-width: 15px
+}
+
+.header-text{
+    margin-left: 50px;
+    margin-top:0px;
+}
+
+#thorhammer{
+    transform: translate(1150px, -100px);
+    width:75%
+}
+
+body{
+    background-color: grey;
+    
 }
